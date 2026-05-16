@@ -7,3 +7,4 @@ tensorflow
 streamlit
 pillow
 jupyter
+opencv-python-headless
